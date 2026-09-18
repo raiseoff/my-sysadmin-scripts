@@ -1,0 +1,5 @@
+--- 2026-09-18 15:17:58 ---
+               total        used        free      shared  buff/cache   available
+Mem:           888Mi       329Mi       121Mi       1.0Mi       437Mi       422Mi
+Swap:             0B          0B          0B
+Filesystem           Size  Used Avail Use% Mounted on
